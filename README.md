@@ -1,18 +1,17 @@
 ![Header](./media/header.png)
 
-<h1 align="center">Hey there 👋, I'm Alben Antappan</h1>
 <h3 align="center">Data Scientist in Training | Aviation Geek</h3>
 
 <br/>
 
 <p>
-    <img align="right" alt="Coding" width="300" src="./media/coding.gif" />
+    <img align="right" alt="Coding" width="300" src="./media/dev.png" />
 
 🎓 Master's in Data Science @ Indiana University Bloomington (2024–2026)  
 💼 Former Senior Analyst / Software Engineer @ Capgemini  
 🧠 Passionate about building smart systems with IoT, ML, and Cloud  
 ⚡ Fun fact: I once built a lie detector (no lie)  
-📚 Currently exploring Big Data, Databases, and Applied ML  
+📚 Currently exploring Big Data, Databases, and AI / ML  
 💡 Always excited to collaborate on projects and innovative ideas  
 📄 I am open to feedback and suggestions.  
 
