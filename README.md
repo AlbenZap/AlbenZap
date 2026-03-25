@@ -92,3 +92,5 @@ When I'm not wrangling data or debugging at 1am, you'll find me
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlbenZap&show_icons=true&theme=dark&hide_border=true" alt="Alben's GitHub Stats" />
 </p>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=AlbenZap&color=blue)
