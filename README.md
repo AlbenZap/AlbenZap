@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="300" src="./media/dev.png" />
 
 🎓 MS in Data Science @ Indiana University Bloomington (2024-2026)  
-🔬 Graduate Research Assistant @ IU School of Medicine - building neuroimaging pipelines  
+🔬 Graduate Research Assistant @ IU School of Medicine - building pipelines  
 💼 Former Senior Analyst / Software Engineer @ Capgemini  
 ⚡ Fun fact: I once built a lie detector (no lie)  
 🤝 Open to research collaborations, internships, and full-time roles in Data Science  
